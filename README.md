@@ -10,7 +10,7 @@ Within each category, papers are listed in reverse chronological order (newest f
 
 ### Categories
 
-[Single Mutations](#single_mutations)  
+[Single Mutations](#single-mutations)  
 
 
 ### Single mutations
